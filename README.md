@@ -19,8 +19,8 @@ This is a PHP-based room booking system that allows users to browse available ro
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/kannan-2002/room-booking-system.git
-   cd room-booking-system
+   git clone https://github.com/kannan-2002/guest-room-booking.git
+   cd guest-room-booking
 2. Set Up the Database:
 
 Import the provided SQL file (database.sql) into your MySQL database to create the necessary tables (rooms, bookings, etc.).
